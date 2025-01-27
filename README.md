@@ -18,7 +18,7 @@ JavaScript: Enhances interactivity, including form validation.
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/dental-care-website.git
+git clone https://github.com/angeleena-mariam/DENTAL-WEBSITE
 Navigate to the health directory, then enter djangotutorial:
 cd health/djangotutorial
 Install the required dependencies:
